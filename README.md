@@ -95,11 +95,11 @@ The model can be evaluated using the following metrics:
 
 | Metric | Purpose |
 |---|---|
-| Accuracy | Measures the proportion of correct predictions |
-| Precision | Measures how many predicted positive cases are actually positive |
-| Recall | Measures how many actual positive cases are correctly identified |
-| F1-Score | Combines precision and recall |
-| Confusion Matrix | Summarizes correct and incorrect classifications |
+| Accuracy | 0.8049 |
+| Precision | 0.8427 |
+| Recall | 0.8824 |
+| F1-Score | 0.8621 |
+| Confusion Matrix | 0.8115 |
 
 The final evaluation results should be reported from the actual test dataset. No accuracy value is assumed in this README.
 
